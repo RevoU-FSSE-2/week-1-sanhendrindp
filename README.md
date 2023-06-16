@@ -5,3 +5,5 @@
 This is my portfolio website, where you can get to know me deeper, from my biodata, skill, etc. This website currently still under construction 🚧. But, as time goes by, there will be many updates and changes on this website. Stay tune.
 
 ![my portfolio](images/screenshot.png)
+
+Use this **[link](https://sanhendrindp.netlify.app/)** to open my portfolio website.
