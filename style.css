@@ -85,6 +85,13 @@ body {
   border-radius: 40%;
 }
 
+.description-photo p {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
 footer {
   padding: 30px;
   width: 100%;
